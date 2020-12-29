@@ -1,0 +1,26 @@
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.exe
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.deps.json
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.json
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.dev.json
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csprojAssemblyReference.cache
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfo.cs
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\Design\Desktop\Alanda\Bootcamp\ExampleDecoratorPattern-master\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.genruntimeconfig.cache
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.exe
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.deps.json
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.json
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.runtimeconfig.dev.json
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\bin\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csprojAssemblyReference.cache
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.AssemblyInfo.cs
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.dll
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.pdb
+C:\Users\temp\Downloads\Telegram Desktop\ProjectDesignPattern-Decorator\obj\Debug\netcoreapp3.1\ExampleDecoratorPattern.genruntimeconfig.cache
